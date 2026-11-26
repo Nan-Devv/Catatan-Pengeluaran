@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailySpend</string>
+    <string name="notification_listener_label">DailySpend Transaction Detector</string>
+    <string name="notification_listener_description">Detects incoming bank and e-wallet transaction notifications locally to log expenses and income automatically.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "DailySpend",
+  "description": "Offline-first personal finance tracker with automatic bank and e-wallet notification transaction detection, budgets, analytics, and local SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
